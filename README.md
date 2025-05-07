@@ -6,3 +6,5 @@ Lab Participants: Srujam Dave
 2. You would use a unit test to test the max length feature, as it presumably involves a single check
    or is entirely contained within a single function.
 
+Explore Page: https://srujam-dave.github.io/Lab5_CSE_110/explore
+Expose Page: https://srujam-dave.github.io/Lab5_CSE_110/expose
