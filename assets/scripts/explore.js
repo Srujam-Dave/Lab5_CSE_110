@@ -34,11 +34,11 @@ function init() {
     }
 
     utterThis.addEventListener('start', function() {
-      smile.setAttribute('src', '/assets/images/smiling-open.png');
+      smile.setAttribute('src', 'assets/images/smiling-open.png');
     })
 
     utterThis.addEventListener('end', function () {
-      smile.setAttribute('src', '/assets/images/smiling.png');
+      smile.setAttribute('src', 'assets/images/smiling.png');
     })
     synthesis.speak(utterThis);
   });
